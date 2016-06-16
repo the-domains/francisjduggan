@@ -1,7 +1,7 @@
 name: francis j duggan
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.5989201876800507
+typography_spectrum: 0.0578
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0
-  lightness: 0.4934537010267377
-  saturation: 0.7898614560253918
-  rhythmicContrast: 0.23865537904202938
+    - '#c6c8c9'
+    - '#faf8f8'
+    - '#726b66'
+    - '#333746'
+    - '#f4a98d'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
